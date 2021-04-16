@@ -1,0 +1,2 @@
+These are the data bytes that I wrote in the file space
+While they are being written, the memory space is write-locked

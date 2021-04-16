@@ -1,0 +1,366 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.7)  16 APR 2021 17:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**osCaseStudy.tex
+(./osCaseStudy.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count187
+\float@exts=\toks18
+\float@box=\box47
+\@float@everytoks=\toks19
+\@floatcapt=\box48
+)
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 21
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count188
+\l__pdf_internal_box=\box49
+)
+No file osCaseStudy.aux.
+\openout1 = `osCaseStudy.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+\big@size=\dimen141
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count189
+\scratchdimen=\dimen142
+\scratchbox=\box50
+\nofMPsegments=\count190
+\nofMParguments=\count191
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count192
+\MPscratchDim=\dimen143
+\MPnumerator=\count193
+\makeMPintoPDFobject=\count194
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 5
+7.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+57.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+57.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+57.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+57.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+) [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+No file osCaseStudy.toc.
+\tf@toc=\write3
+\openout3 = `osCaseStudy.toc'.
+
+[1]
+Overfull \hbox (23.4925pt too wide) in paragraph at lines 119--140
+\T1/ppl/m/n/12 op-er-at-ing sys-tem de-vel-oped by Lynux-Works, was in-tro-duce
+d in 1988. LynxOS-
+ []
+
+
+Overfull \hbox (0.53558pt too wide) in paragraph at lines 119--140
+\T1/ppl/m/n/12 ca-tion Pro-gram-ming In-ter-face) which pro-vide sym-met-ric mu
+lti-processing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--140
+
+ []
+
+[2
+
+] [3]
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
+56.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+[4]
+
+LaTeX Warning: Citation `ref:embed' on page 5 undefined on input line 185.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+
+ []
+
+
+LaTeX Warning: Reference `fig:embedarch' on page 5 undefined on input line 187.
+
+
+</Users/daksh_mac/Desktop/embed.jpeg, id=21, 957.5775pt x 418.56375pt>
+File: /Users/daksh_mac/Desktop/embed.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/embed.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/embed.jpeg  used on input lin
+e 193.
+(pdftex.def)             Requested size: 369.88853pt x 161.68083pt.
+[5
+
+ </Users/daksh_mac/Desktop/embed.jpeg>]
+
+LaTeX Warning: Citation `ref:embedcat' on page 6 undefined on input line 210.
+
+[6]
+
+LaTeX Warning: Reference `fig:kernel' on page 7 undefined on input line 238.
+
+</Users/daksh_mac/Desktop/kernel.jpeg, id=29, 660.4675pt x 428.60126pt>
+File: /Users/daksh_mac/Desktop/kernel.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/kernel.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/kernel.jpeg  used on input li
+ne 244.
+(pdftex.def)             Requested size: 369.89958pt x 240.04121pt.
+[7]
+
+LaTeX Warning: Citation `ref:per' on page 8 undefined on input line 261.
+
+[8 </Users/daksh_mac/Desktop/kernel.jpeg>]
+Overfull \hbox (16.88016pt too wide) in paragraph at lines 292--298
+\T1/ppl/m/n/12 ing), Lynx-Works de-vel-oped and patented tech-niques known as k
+er-nel threads
+ []
+
+[9]
+
+LaTeX Warning: Citation `ref:arch' on page 10 undefined on input line 308.
+
+</Users/daksh_mac/Desktop/arch1.jpeg, id=40, 809.0225pt x 389.455pt>
+File: /Users/daksh_mac/Desktop/arch1.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/arch1.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/arch1.jpeg  used on input lin
+e 312.
+(pdftex.def)             Requested size: 398.33792pt x 191.7557pt.
+
+Overfull \hbox (8.33792pt too wide) in paragraph at lines 312--313
+ [][] 
+ []
+
+</Users/daksh_mac/Desktop/arch2.jpeg, id=41, 537.00626pt x 336.25626pt>
+File: /Users/daksh_mac/Desktop/arch2.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/arch2.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/arch2.jpeg  used on input lin
+e 327.
+(pdftex.def)             Requested size: 369.88739pt x 231.61172pt.
+[10
+
+ </Users/daksh_mac/Desktop/arch1.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 333--344
+
+ []
+
+[11 </Users/daksh_mac/Desktop/arch2.jpeg>]
+</Users/daksh_mac/Desktop/arch3.jpeg, id=48, 726.715pt x 202.7575pt>
+File: /Users/daksh_mac/Desktop/arch3.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/arch3.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/arch3.jpeg  used on input lin
+e 361.
+(pdftex.def)             Requested size: 398.34164pt x 111.13951pt.
+
+Overfull \hbox (8.34164pt too wide) in paragraph at lines 361--362
+ [][] 
+ []
+
+[12 </Users/daksh_mac/Desktop/arch3.jpeg>]
+</Users/daksh_mac/Desktop/arch4.jpeg, id=53, 742.775pt x 486.81876pt>
+File: /Users/daksh_mac/Desktop/arch4.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/arch4.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/arch4.jpeg  used on input lin
+e 382.
+(pdftex.def)             Requested size: 412.57368pt x 270.40303pt.
+
+Overfull \hbox (22.57368pt too wide) in paragraph at lines 382--383
+ [][] 
+ []
+
+[13 </Users/daksh_mac/Desktop/arch4.jpeg>]
+Overfull \hbox (19.70981pt too wide) in paragraph at lines 398--399
+\T1/ppl/m/n/12 text, CPU reg-is-ters, CPU-scheduling in-for-ma-tion, Memory-man
+agement
+ []
+
+</Users/daksh_mac/Desktop/queue.jpeg, id=57, 695.59875pt x 277.035pt>
+File: /Users/daksh_mac/Desktop/queue.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/queue.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/queue.jpeg  used on input lin
+e 414.
+(pdftex.def)             Requested size: 412.56496pt x 164.31157pt.
+
+Overfull \hbox (22.56496pt too wide) in paragraph at lines 414--415
+ [][] 
+ []
+
+[14
+
+]
+Overfull \hbox (3.89417pt too wide) in paragraph at lines 425--426
+\T1/ppl/m/n/12 pro-ces-sor) to pro-vide mul-ti-ple threads of ex-e-cu-tion con-
+cur-rently, sup-
+ []
+
+[15 </Users/daksh_mac/Desktop/queue.jpeg>]
+
+LaTeX Warning: Reference `fig:inversion' on page 16 undefined on input line 440
+.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--450
+
+ []
+
+</Users/daksh_mac/Desktop/inversion.jpeg, id=64, 594.22pt x 277.035pt>
+File: /Users/daksh_mac/Desktop/inversion.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/inversion.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/inversion.jpeg  used on input
+ line 453.
+(pdftex.def)             Requested size: 284.54233pt x 132.65823pt.
+[16
+
+ </Users/daksh_mac/Desktop/inversion.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+
+ []
+
+[17
+
+]
+</Users/daksh_mac/Desktop/posixSch.jpeg, id=71, 339.2675pt x 333.245pt>
+File: /Users/daksh_mac/Desktop/posixSch.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/posixSch.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/posixSch.jpeg  used on input 
+line 519.
+(pdftex.def)             Requested size: 289.68846pt x 284.54605pt.
+ [18] [19 </Users/daksh_mac/Desktop/posixSch.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 563--573
+
+ []
+
+
+LaTeX Warning: Reference `fig:ptrack' on page 20 undefined on input line 578.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 574--581
+
+ []
+
+[20]
+</Users/daksh_mac/Desktop/ptracking.jpeg, id=82, 587.19376pt x 243.91125pt>
+File: /Users/daksh_mac/Desktop/ptracking.jpeg Graphic file (type jpg)
+<use /Users/daksh_mac/Desktop/ptracking.jpeg>
+Package pdftex.def Info: /Users/daksh_mac/Desktop/ptracking.jpeg  used on input
+ line 591.
+(pdftex.def)   

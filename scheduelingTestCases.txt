@@ -1,0 +1,21 @@
+For general schedueling:
+For P1 : 2 6
+For P2 : 5 2
+For P3 : 1 8
+For P4 : 0 3
+For P5 : 4 4
+
+for srtf:
+For P1 : 0 7
+For P2 : 1 5
+For P3 : 2 3
+For P4 : 3 1
+For P5 : 4 2
+For P6 : 5 1
+
+for priority schedueling
+For P1 : 0 4 1
+For P2 : 0 3 2
+For P3 : 6 7 1
+For P4 : 11 4 3
+For P5 : 12 2 2

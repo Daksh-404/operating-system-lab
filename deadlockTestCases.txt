@@ -1,0 +1,54 @@
+Deadlock Avoidance:
+
+         Enter No. of Process:-
+                5
+
+        Enter No. of Resources:-
+                4
+
+        Enter No. of Available Instances
+                3 3 2 1
+
+        Enter Maximum No. of instances of resources that a Process need:
+
+         For P[0]       4 2 1 2
+
+         For P[1]       5 2 5 2
+
+         For P[2]       2 3 1 6
+
+         For P[3]       1 4 2 4
+
+         For P[4]       3 6 6 5
+
+         Enter no. of instances already allocated to process of a resource:
+
+         For P[0]                       2 0 0 1
+
+         For P[1]                       3 1 2 1
+
+         For P[2]                       2 1 0 3
+
+         For P[3]                       1 3 1 2
+
+         For P[4]                       1 4 3 2
+
+
+Deadlock Detection
+
+Enter the no of Processes       5
+Enter the no of resources       3
+Enter the Max Matrix
+0 1 0
+4 0 2
+3 0 3
+3 1 1
+0 0 4
+Enter the Allocation Matrix
+0 1 0
+2 0 0
+3 0 3
+2 1 1
+0 0 2
+Enter the available Resources
+0 0 0
