@@ -1,59 +1,59 @@
-\contentsline {section}{\numberline {1}Introduction}{3}{}%
-\contentsline {subsection}{\numberline {1.1}What is an Operating System?}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Who is Lynux Works and what is Lynx OS?}{4}{}%
-\contentsline {subsection}{\numberline {1.3}Where is Lynx OS found?}{4}{}%
-\contentsline {section}{\numberline {2}Embedded Systems}{6}{}%
-\contentsline {subsection}{\numberline {2.1}Embedded System History}{7}{}%
-\contentsline {subsection}{\numberline {2.2}Embedded System Categories}{7}{}%
-\contentsline {subsection}{\numberline {2.3}Embedded Systems Factors}{8}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}RTOS}{8}{}%
-\contentsline {paragraph}{\numberline {2.3.1.1}Lynx OS}{9}{}%
-\contentsline {section}{\numberline {3}Design Goals and Approach}{10}{}%
-\contentsline {subsection}{\numberline {3.1}Design Goals of Lynx OS}{10}{}%
-\contentsline {subsection}{\numberline {3.2}Lynx OS Approach}{10}{}%
-\contentsline {section}{\numberline {4}Structural Overview}{11}{}%
-\contentsline {subsection}{\numberline {4.1}Architecture of Lynx OS}{11}{}%
-\contentsline {subsection}{\numberline {4.2}Component Structure of LynxOS}{12}{}%
-\contentsline {section}{\numberline {5}Process and Thread Organization}{15}{}%
-\contentsline {subsection}{\numberline {5.1}General Definitions}{15}{}%
-\contentsline {subsection}{\numberline {5.2}Issues Associated With Task Schedueling }{17}{}%
-\contentsline {subsubsection}{\numberline {5.2.1}Priority Inversion}{17}{}%
-\contentsline {subsection}{\numberline {5.3}Process Management and Schedueling}{18}{}%
-\contentsline {subsubsection}{\numberline {5.3.1}POSIX in LynxOS}{18}{}%
-\contentsline {paragraph}{\numberline {5.3.1.1}What is POSIX?}{18}{}%
-\contentsline {paragraph}{\numberline {5.3.1.2}What Does Being POSIX-Compliant Mean?}{18}{}%
-\contentsline {paragraph}{\numberline {5.3.1.3}Involvement of POSIX in Lynx OS}{18}{}%
-\contentsline {subsubsection}{\numberline {5.3.2}LynxOS Scheduling}{19}{}%
-\contentsline {subsubsection}{\numberline {5.3.3}LynxOS Interrupt Handling System}{21}{}%
-\contentsline {subsection}{\numberline {5.4}Interprocess Communication and Process Synchronization}{22}{}%
-\contentsline {subsubsection}{\numberline {5.4.1}Permissions}{23}{}%
-\contentsline {subsubsection}{\numberline {5.4.2}System V Messages}{23}{}%
-\contentsline {subsubsection}{\numberline {5.4.3}System V Semaphores}{24}{}%
-\contentsline {subsubsection}{\numberline {5.4.4}System V Shared Memory}{25}{}%
-\contentsline {subsection}{\numberline {5.5}Deadlock Handling in Lynx OS}{26}{}%
-\contentsline {subsubsection}{\numberline {5.5.1}Deadlock Avoidance}{26}{}%
-\contentsline {subsubsection}{\numberline {5.5.2}Deadlock Detection}{28}{}%
-\contentsline {subsubsection}{\numberline {5.5.3}Deadlock Recovery}{30}{}%
-\contentsline {section}{\numberline {6}Memory Management}{32}{}%
-\contentsline {subsection}{\numberline {6.1}Memory Management Unit}{32}{}%
-\contentsline {subsection}{\numberline {6.2}Memory Allocation Structure}{33}{}%
-\contentsline {subsubsection}{\numberline {6.2.1}$heap\_1$}{34}{}%
-\contentsline {subsubsection}{\numberline {6.2.2}$heap\_2$}{35}{}%
-\contentsline {subsubsection}{\numberline {6.2.3}$heap\_3$}{36}{}%
-\contentsline {subsubsection}{\numberline {6.2.4}$heap\_4$}{36}{}%
-\contentsline {subsubsection}{\numberline {6.2.5}$heap\_5$}{37}{}%
-\contentsline {subsection}{\numberline {6.3}Address Space Protection}{37}{}%
-\contentsline {section}{\numberline {7}File Management and Secondary Storage}{38}{}%
-\contentsline {subsection}{\numberline {7.1}What is a file?}{38}{}%
-\contentsline {subsection}{\numberline {7.2}What is file management?}{38}{}%
-\contentsline {subsection}{\numberline {7.3}Role of file management}{38}{}%
-\contentsline {subsection}{\numberline {7.4}Pillars of File Management}{38}{}%
-\contentsline {subsection}{\numberline {7.5}Lynx OS File Systems}{39}{}%
-\contentsline {subsection}{\numberline {7.6}Network File System}{39}{}%
-\contentsline {subsubsection}{\numberline {7.6.1}NFS Protocol}{40}{}%
-\contentsline {subsubsection}{\numberline {7.6.2}Goals of NFS Design}{40}{}%
-\contentsline {subsection}{\numberline {7.7}Flash File System}{41}{}%
-\contentsline {subsubsection}{\numberline {7.7.1}Memory Organization}{41}{}%
-\contentsline {subsubsection}{\numberline {7.7.2}Allocation Information}{42}{}%
-\contentsline {subsubsection}{\numberline {7.7.3}File Names and Content}{43}{}%
-\contentsline {section}{\numberline {8}Conclusion}{45}{}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}What is an Operating System?}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Who is Lynux Works and what is Lynx OS?}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Where is Lynx OS found?}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Embedded Systems}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Embedded System History}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Embedded System Categories}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Embedded Systems Factors}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}RTOS}{8}{subsubsection.2.3.1}%
+\contentsline {paragraph}{\numberline {2.3.1.1}Lynx OS}{9}{paragraph.2.3.1.1}%
+\contentsline {section}{\numberline {3}Design Goals and Approach}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Design Goals of Lynx OS}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Lynx OS Approach}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Structural Overview}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Architecture of Lynx OS}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Component Structure of LynxOS}{12}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Process and Thread Organization}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}General Definitions}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Issues Associated With Task Schedueling }{17}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Priority Inversion}{17}{subsubsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.3}Process Management and Schedueling}{18}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}POSIX in LynxOS}{18}{subsubsection.5.3.1}%
+\contentsline {paragraph}{\numberline {5.3.1.1}What is POSIX?}{18}{paragraph.5.3.1.1}%
+\contentsline {paragraph}{\numberline {5.3.1.2}What Does Being POSIX-Compliant Mean?}{18}{paragraph.5.3.1.2}%
+\contentsline {paragraph}{\numberline {5.3.1.3}Involvement of POSIX in Lynx OS}{18}{paragraph.5.3.1.3}%
+\contentsline {subsubsection}{\numberline {5.3.2}LynxOS Scheduling}{19}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}LynxOS Interrupt Handling System}{21}{subsubsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.4}Interprocess Communication and Process Synchronization}{22}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Permissions}{23}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}System V Messages}{23}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}System V Semaphores}{24}{subsubsection.5.4.3}%
+\contentsline {subsubsection}{\numberline {5.4.4}System V Shared Memory}{25}{subsubsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.5}Deadlock Handling in Lynx OS}{26}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Deadlock Avoidance}{26}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.2}Deadlock Detection}{28}{subsubsection.5.5.2}%
+\contentsline {subsubsection}{\numberline {5.5.3}Deadlock Recovery}{30}{subsubsection.5.5.3}%
+\contentsline {section}{\numberline {6}Memory Management}{32}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Memory Management Unit}{32}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Memory Allocation Structure}{33}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}$heap\_1$}{34}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}$heap\_2$}{35}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}$heap\_3$}{36}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}$heap\_4$}{36}{subsubsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.5}$heap\_5$}{37}{subsubsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.3}Address Space Protection}{37}{subsection.6.3}%
+\contentsline {section}{\numberline {7}File Management and Secondary Storage}{38}{section.7}%
+\contentsline {subsection}{\numberline {7.1}What is a file?}{38}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}What is file management?}{38}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Role of file management}{38}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Pillars of File Management}{38}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Lynx OS File Systems}{39}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Network File System}{39}{subsection.7.6}%
+\contentsline {subsubsection}{\numberline {7.6.1}NFS Protocol}{40}{subsubsection.7.6.1}%
+\contentsline {subsubsection}{\numberline {7.6.2}Goals of NFS Design}{40}{subsubsection.7.6.2}%
+\contentsline {subsection}{\numberline {7.7}Flash File System}{41}{subsection.7.7}%
+\contentsline {subsubsection}{\numberline {7.7.1}Memory Organization}{41}{subsubsection.7.7.1}%
+\contentsline {subsubsection}{\numberline {7.7.2}Allocation Information}{42}{subsubsection.7.7.2}%
+\contentsline {subsubsection}{\numberline {7.7.3}File Names and Content}{43}{subsubsection.7.7.3}%
+\contentsline {section}{\numberline {8}Conclusion}{45}{section.8}%
